@@ -1,0 +1,30 @@
+ref,date,cancelled,ack,link,manual clock in,manual clock out,has notes,medication call,alert,chargeable,pay staff,call status,client,area,sched start,sched end,sched dur,clocked start,clocked end,clocked dur,staff,service,week
+39405940,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Peter White,GU46,08:55,09:25,00:30,,,00:00,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405289,14/12/2023,active,No,No,No,No,No,No,Yes,No,No,Missed,Office Work,Enter Name,09:00,17:00,08:00,,,00:00,Maria Wells,Surrey County Council - Live In,Week 4
+39405370,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,10:30,11:15,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405820,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Natasha Coates,GU14,10:35,11:05,00:30,,,00:00,Riccardi Tawanda Muzanenhamo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405586,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Aminata Kpakra,GU21,11:00,11:45,00:45,,,00:00,Zvikomborero Blessing Manyonga,Surrey - Private Clients ,Week 4
+39405385,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,11:20,12:20,01:00,,,00:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 4
+39405664,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,11:30,12:00,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405397,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Hiafaa Zein Elaabdin Murad,Enter Name,11:55,12:25,00:30,,,00:00,Zvikomborero Blessing Manyonga,Surrey - Private Clients ,Week 4
+39405766,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Sandra Cattle,GU23,12:15,12:45,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 4
+39405373,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,13:00,13:30,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405862,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Florance Tompkins,GU12,13:00,13:30,00:30,,,00:00,Mavis Mupiwani,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405946,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Peter White,GU46,13:30,14:00,00:30,,,00:00,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405526,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,13:45,14:15,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405469,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Jaqueline Hodgkiss,GU14,14:05,16:05,02:00,,,00:00,Winnet Mupandare,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405649,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Brian Rowe,GU1,15:15,15:45,00:30,,,00:00,Vimbayi Mupiwani,Surrey - Private Clients ,Week 4
+39405649,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Brian Rowe,GU1,15:15,15:45,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405667,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,15:50,16:35,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405388,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,17:15,17:45,00:30,,,00:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 4
+39405535,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405799,14/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Peter Carver,GU21,18:15,18:45,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 4
+39405673,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,19:00,19:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405742,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Andrea Frances Curtis,GU22,19:30,20:00,00:30,,,00:00,Zvikomborero Blessing Manyonga,Surrey County Council - Spot Contract,Week 4
+39405538,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405694,14/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Jasmine Roberts,GU11,20:00,22:00,02:00,,,00:00,Ronald Allan Alido,Surrey County Council - Supported Living (16-18),Week 4
+39405724,14/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Elaine Den Ouden,GU21,20:15,20:45,00:30,,,00:00,Zvikomborero Blessing Manyonga,Surrey County Council - Spot Contract,Week 4
+39405253,14/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Samantha Phillips,GU11,20:50,21:50,01:00,,,00:00,Mavis Mupiwani,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405361,14/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Raj Rani Chauhan,Enter Name,21:00,21:30,00:30,,,00:00,Zvikomborero Blessing Manyonga,Surrey - Private Clients ,Week 4
+39405610,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,John Rendle,GU14,21:00,21:30,00:30,,,00:00,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405772,14/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Sandra Cattle,GU23,21:00,21:30,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 4

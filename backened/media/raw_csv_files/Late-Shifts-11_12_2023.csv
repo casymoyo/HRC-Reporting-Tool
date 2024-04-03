@@ -1,0 +1,72 @@
+ref,date,cancelled,ack,link,manual clock in,manual clock out,has notes,medication call,alert,chargeable,pay staff,call status,client,area,sched start,sched end,sched dur,clocked start,clocked end,clocked dur,staff,service,week
+39402868,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Kalpana Shrestha,GU11,06:00,07:00,01:00,06:17,07:03,00:46,Farai Albert Mariga,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402868,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Kalpana Shrestha,GU11,06:00,07:00,01:00,06:17,07:03,00:46,Berthur Masotya,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403180,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Lawn,GU7,06:55,07:55,01:00,07:17,07:56,00:39,Faith Taruvinga,Surrey - Private Clients ,Week 4
+39403441,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,07:00,07:45,00:45,07:19,07:47,00:28,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402871,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Margaret Davies,GU46,07:35,08:20,00:45,07:59,08:10,00:11,Blandina Matirongo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403261,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Frederick Bell,GU21,07:45,08:15,00:30,08:19,08:30,00:11,Melissa Mutero,Surrey - Private Clients ,Week 4
+39403027,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lily Coward,Enter Name,08:00,10:00,02:00,09:39,11:39,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403057,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,08:00,10:00,02:00,09:41,11:41,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403096,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,James Barber,GU7,08:00,16:00,08:00,08:29,16:01,07:32,Riccardi Tawanda Muzanenhamo,Surrey - Private Clients ,Week 4
+39403363,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Sandra Cattle,GU23,08:25,09:10,00:45,08:58,09:19,00:21,Melissa Mutero,Surrey County Council - Spot Contract,Week 4
+39402898,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Joan Cox,GU46,09:00,09:30,00:30,09:20,09:55,00:35,Blandina Matirongo,Hampshire County Council - Enhanced Rate 2 ,Week 4
+39402904,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Hazel Reader,GU46,09:00,10:00,01:00,09:17,10:16,00:59,Berthur Masotya,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403141,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,09:25,10:10,00:45,09:41,10:26,00:45,Melissa Mutero,Surrey - Private Clients ,Week 4
+39403210,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,09:25,10:10,00:45,09:42,10:18,00:36,Tichaona Chiteshe,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402955,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Roy Anstey,GU46,09:35,10:20,00:45,10:07,10:53,00:46,Blandina Matirongo,Hampshire - Private Clients ,Week 4
+39403042,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lily Coward,Enter Name,10:00,12:00,02:00,10:16,12:16,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403060,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,10:00,12:00,02:00,10:17,12:17,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403420,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Brenda Moline,GU12,10:00,10:30,00:30,10:21,10:56,00:35,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402877,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Cecilia Wendy Tappern,GU17,10:15,10:45,00:30,10:36,11:14,00:38,Berthur Masotya,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403105,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,David Fernando,GU12,10:40,11:10,00:30,11:07,11:37,00:30,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403264,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Frederick Bell,GU21,11:30,12:00,00:30,11:58,12:02,00:04,Melissa Mutero,Surrey - Private Clients ,Week 4
+39402973,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Gloria Gould,GU3,12:00,16:00,04:00,14:51,16:19,01:28,Gloria Zulu,Surrey County Council - Live In,Week 4
+39403318,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Elaine Den Ouden,GU21,12:00,12:30,00:30,12:30,13:00,00:30,Zvikomborero Blessing Manyonga,Surrey County Council - Spot Contract,Week 4
+39403333,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lola James,GU11,12:00,14:00,02:00,12:25,15:37,03:12,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403462,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hope Mackinney,Meadow House,12:00,14:00,02:00,12:21,12:24,00:03,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403510,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,12:00,14:00,02:00,12:24,12:25,00:01,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403204,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,David Brunt,GU14,12:30,13:00,00:30,12:47,13:08,00:21,Farai Albert Mariga,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403204,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,David Brunt,GU14,12:30,13:00,00:30,12:54,13:08,00:14,Berthur Masotya,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403144,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,13:40,14:10,00:30,14:15,14:22,00:07,Melissa Mutero,Surrey - Private Clients ,Week 4
+39403045,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lily Coward,Enter Name,14:00,16:00,02:00,15:37,17:37,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403063,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,14:00,16:00,02:00,15:38,17:38,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403159,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,14:00,16:00,02:00,15:38,15:39,00:01,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403486,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hope Mackinney,Meadow House,14:00,16:00,02:00,15:39,15:41,00:02,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403519,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lola James,GU11,14:00,16:00,02:00,15:45,16:16,00:31,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39402880,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Cecilia Wendy Tappern,GU17,14:30,15:30,01:00,14:46,15:36,00:50,Berthur Masotya,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403267,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Frederick Bell,GU21,15:05,15:50,00:45,15:56,16:22,00:26,Melissa Mutero,Surrey - Private Clients ,Week 4
+39402997,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Gloria Gould,GU3,16:00,20:00,04:00,16:19,20:18,03:59,Gloria Zulu,Surrey County Council - Live In,Week 4
+39403306,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Frederick Robert Wilson,GU5,16:00,20:00,04:00,17:03,20:14,03:11,Auxillia Mupiwani,Surrey - Private Clients ,Week 4
+39403336,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lola James,GU11,16:00,18:00,02:00,16:23,18:18,01:55,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403369,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Sandra Cattle,GU23,16:00,16:30,00:30,16:51,17:07,00:16,Melissa Mutero,Surrey County Council - Spot Contract,Week 4
+39403465,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hope Mackinney,Meadow House,16:00,18:00,02:00,16:17,16:18,00:01,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403477,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,16:00,18:00,02:00,16:23,18:23,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403513,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,16:00,18:00,02:00,16:19,16:21,00:02,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403525,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lily Coward,Enter Name,16:00,18:00,02:00,18:24,20:24,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403009,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Carlos Andre Duarte Domingoes Da Silva,GU21,16:40,17:10,00:30,17:32,18:02,00:30,Melissa Mutero,Surrey - Private Clients ,Week 4
+39403000,11/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Late,On-Call Adult Duty,GU21,17:00,09:00,16:00,,,00:00,Maria Wells,Surrey - Private Clients ,Week 4
+39403078,11/12/2023,active,Yes,No,No,No,No,No,Yes,No,No,Late,On-Call Supported Living,GU21,17:00,09:00,16:00,,,00:00,Maria Wells,Surrey - Private Clients ,Week 4
+39403321,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Elaine Den Ouden,GU21,17:00,18:00,01:00,17:36,17:37,00:01,Zvikomborero Blessing Manyonga,Surrey County Council - Spot Contract,Week 4
+39403399,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Peter Carver,GU21,17:00,17:30,00:30,17:18,17:41,00:23,Riccardi Tawanda Muzanenhamo,Surrey County Council - Spot Contract,Week 4
+39403147,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,00:30,18:38,19:08,00:30,Melissa Mutero,Surrey - Private Clients ,Week 4
+39403048,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lily Coward,Enter Name,18:00,20:00,02:00,18:25,20:25,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403066,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,18:00,20:00,02:00,18:26,20:26,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403162,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,18:00,20:00,02:00,18:18,19:10,00:52,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403489,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hope Mackinney,Meadow House,18:00,20:00,02:00,19:10,19:12,00:02,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403522,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Lola James,GU11,18:00,20:00,02:00,19:12,20:17,01:05,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39687346,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Pamela Fitzgerland,GU11,18:55,19:25,00:30,19:30,19:48,00:18,Annah Nyaradzo Hangazha,Hampshire - Private Clients ,All Weeks
+39402988,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Lydia Francois,GU11,19:30,20:00,00:30,19:55,20:19,00:24,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402988,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Lydia Francois,GU11,19:30,20:00,00:30,20:00,20:23,00:23,Annah Nyaradzo Hangazha,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402979,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Gloria Gould,GU3,20:00,22:30,02:30,20:19,23:03,02:44,Gloria Zulu,Surrey County Council - Live In,Week 4
+39403051,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,In Progress,Lily Coward,Enter Name,20:00,22:00,02:00,20:17,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39403249,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,20:00,22:00,02:00,20:17,20:24,00:07,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403309,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Frederick Robert Wilson,GU5,20:00,22:30,02:30,20:16,22:45,02:29,Auxillia Mupiwani,Surrey - Private Clients ,Week 4
+39403339,11/12/2023,active,Yes,No,No,No,No,No,Yes,Yes,Yes,Complete,Lola James,GU11,20:00,22:00,02:00,20:27,23:11,02:44,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403468,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hope Mackinney,Meadow House,20:00,22:00,02:00,20:25,20:26,00:01,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 4
+39403480,11/12/2023,active,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Complete,Hugo Mitchell,Enter Name,20:00,22:00,02:00,20:16,22:16,02:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 4
+39402865,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Kalpana Shrestha,GU11,20:05,20:50,00:45,20:36,20:55,00:19,Annah Nyaradzo Hangazha,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39402865,11/12/2023,active,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Complete,Kalpana Shrestha,GU11,20:05,20:50,00:45,20:31,20:51,00:20,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403435,11/12/2023,active,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,20:25,20:55,00:30,20:47,21:10,00:23,Tichaona Chiteshe,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39403012,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Carlos Andre Duarte Domingoes Da Silva,GU21,20:30,21:15,00:45,20:57,21:24,00:27,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 4
+39403012,11/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Carlos Andre Duarte Domingoes Da Silva,GU21,20:30,21:15,00:45,20:57,21:24,00:27,Faith Taruvinga,Surrey - Private Clients ,Week 4
+39403216,11/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,21:00,21:30,00:30,21:23,21:46,00:23,Tichaona Chiteshe,Hampshire County Council - Enhanced Rate 1 ,Week 4

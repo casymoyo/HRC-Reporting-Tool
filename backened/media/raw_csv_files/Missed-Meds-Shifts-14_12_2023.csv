@@ -1,0 +1,28 @@
+ref,date,cancelled,ack,link,manual clock in,manual clock out,has notes,medication call,alert,chargeable,pay staff,call status,client,area,sched start,sched end,sched dur,clocked start,clocked end,clocked dur,staff,service,week
+39405847,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,06:50,07:35,00:45,06:50,07:35,00:45,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405235,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Margaret Davies,GU46,07:35,08:20,00:45,07:59,08:11,00:12,Winnet Mupandare,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405451,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Debra Malcolm,GU14,08:15,08:45,00:30,08:10,08:40,00:30,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405523,14/12/2023,active,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,08:40,09:25,00:45,08:40,09:25,00:45,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405523,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,08:40,09:25,00:45,09:08,09:53,00:45,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405637,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Buddhi Gurung,GU14,10:00,10:30,00:30,10:25,10:55,00:30,Riccardi Tawanda Muzanenhamo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405370,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,10:30,11:15,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405370,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Carlos Andre Duarte Domingoes Da Silva,GU21,10:30,11:15,00:45,10:35,11:22,00:47,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405385,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,11:20,12:20,01:00,,,00:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 4
+39405457,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Debra Malcolm,GU14,12:15,12:45,00:30,12:47,13:17,00:30,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405511,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Margaret Davies,GU46,12:55,13:25,00:30,13:20,13:38,00:18,Winnet Mupandare,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405607,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,12:55,13:25,00:30,13:02,13:24,00:22,Riccardi Tawanda Muzanenhamo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405373,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,13:00,13:30,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405373,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Carlos Andre Duarte Domingoes Da Silva,GU21,13:00,13:30,00:30,12:58,13:25,00:27,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405526,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,13:45,14:15,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405526,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,13:45,14:15,00:30,14:11,14:19,00:08,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405388,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,17:15,17:45,00:30,,,00:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 4
+39405535,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405535,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,00:30,17:24,17:42,00:18,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405640,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Buddhi Gurung,GU14,18:55,19:25,00:30,18:57,19:04,00:07,Riccardi Tawanda Muzanenhamo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405520,14/12/2023,active,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Complete,Amy Baverstock,GU17,19:15,19:45,00:30,19:29,19:53,00:24,Blandina Matirongo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405538,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 4
+39405538,14/12/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,00:45,20:11,20:19,00:08,Melissa Mutero,Surrey - Private Clients ,Week 4
+39405646,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jessica Cornford,GU21,20:00,22:00,02:00,19:59,21:59,02:00,Rufaro Sigauke,Surrey County Council - Supported Living (16-18),Week 4
+39405841,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,20:05,20:35,00:30,20:02,20:29,00:27,Riccardi Tawanda Muzanenhamo,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405610,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,John Rendle,GU14,21:00,21:30,00:30,,,00:00,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 4
+39405280,14/12/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Margaret Davies,GU46,21:10,21:40,00:30,20:52,21:01,00:09,Winnet Mupandare,Hampshire County Council - Enhanced Rate 1 ,Week 4

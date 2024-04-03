@@ -1,0 +1,28 @@
+.App,
+.excluded{
+    height: 100vh;
+    background: #fff;
+}
+.excluded .title{
+    /* background: #777;
+    color: #fff; */
+}
+.excluded ul{
+    height: 80vh;
+    overflow-y: auto;
+}
+.icon{
+    cursor: pointer;
+    transition: 0.3ms ease all;
+}
+.icon:hover{
+    font-size: 20px;
+}
+
+.client:hover{
+    background: #777;
+    color: #fff;
+}
+.file-drop{
+    height: 80vh;
+}

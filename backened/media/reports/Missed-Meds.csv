@@ -1,0 +1,23 @@
+ref,date,cancelled,ack,link,manual clock in,manual clock out,has notes,medication call,alert,chargeable,pay staff,call status,client,area,sched_start,sched_end,sched dur,clocked_start,clocked end,clocked dur,staff,service,week
+38457595,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Amy Baverstock,GU17,6:10,6:55,0:45,6:18,7:03,0:45,Takudzwa Chiwade,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457355,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,7:30,12:00,4:30,,,0:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457493,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Kieron Sergent,Enter Name,8:00,8:45,0:45,8:14,9:01,0:47,Farai Albert Mariga,Surrey - Private Clients ,Week 2
+38457649,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,9:25,10:10,0:45,9:32,10:17,0:45,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457565,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,10:00,10:45,0:45,,,0:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457565,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,10:00,10:45,0:45,9:57,10:20,0:23,Riccardi Tawanda Muzanenhamo,Surrey - Private Clients ,Week 2
+38457415,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,11:20,12:20,1:00,,,0:00,Faith Taruvinga,Surrey - Private Clients ,Week 2
+38457358,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,12:00,16:00,4:00,,,0:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457568,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,13:40,14:10,0:30,,,0:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457568,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,13:40,14:10,0:30,13:47,14:00,0:13,Riccardi Tawanda Muzanenhamo,Surrey - Private Clients ,Week 2
+38457652,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,13:40,14:10,0:30,13:21,13:44,0:23,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457418,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,17:15,17:45,0:30,,,0:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 2
+38457574,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,0:30,,,0:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457574,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,0:30,17:32,17:49,0:17,Riccardi Tawanda Muzanenhamo,Surrey - Private Clients ,Week 2
+38457907,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,17:30,18:00,0:30,17:33,18:03,0:30,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457688,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Buddhi Gurung,GU14,19:10,19:40,0:30,19:24,19:49,0:25,Blandina Matirongo,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457364,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,20:00,22:30,2:30,,,0:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457577,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,0:45,,,0:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457577,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,0:45,19:56,20:12,0:16,Riccardi Tawanda Muzanenhamo,Surrey - Private Clients ,Week 2
+38457898,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Ron Penton,GU14,20:25,20:55,0:30,20:27,20:54,0:27,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457655,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,John Rendle,GU14,21:00,21:30,0:30,21:03,21:26,0:23,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457289,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Complete,Jean Margaret Davies,GU46,21:10,21:40,0:30,20:53,21:17,0:24,Winnet Mupandare,Hampshire County Council - Enhanced Rate 1 ,Week 2

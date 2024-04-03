@@ -1,0 +1,53 @@
+ref,date,cancelled,ack,link,manual clock in,manual clock out,has notes,medication call,alert,chargeable,pay staff,call status,client,area,sched start,sched end,sched dur,clocked start,clocked end,clocked dur,staff,service,week
+38456536,28/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,On-Call Adult Duty,GU21,17:00,09:00,16:00,,,00:00,Maria Wells,Surrey - Private Clients ,Week 2
+38456701,28/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,On-Call Supported Living,GU21,17:00,09:00,16:00,,,00:00,Maria Wells,Surrey - Private Clients ,Week 2
+38457457,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Hugo Mitchell,Enter Name,00:00,01:00,01:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457391,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,07:00,07:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457910,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Barbara Roberts,GU21,07:00,07:45,00:45,,,00:00,Farai Albert Mariga,Surrey County Council - Spot Contract,Week 2
+38457355,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,07:30,12:00,04:30,,,00:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457454,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Lily Coward,Enter Name,08:00,09:00,01:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457460,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Hugo Mitchell,Enter Name,08:00,09:00,01:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457703,29/11/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,08:00,08:30,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457721,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Sophie Thompson,GU11,08:00,10:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+38457730,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Jasmine Roberts,GU11,08:00,10:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+38457817,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Sandra Cattle,GU23,09:00,09:45,00:45,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 2
+38457436,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Lily Coward,Enter Name,10:00,12:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457463,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Hugo Mitchell,Enter Name,10:00,12:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457562,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Andrew Lambert,GU12,10:00,13:00,03:00,,,00:00,Farai Albert Mariga,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457565,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,10:00,10:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457451,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Lily Coward,Enter Name,11:00,13:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+38457634,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Aminata Kpakra,GU21,11:00,11:45,00:45,,,00:00,Annah Nyaradzo Hangazha,Surrey - Private Clients ,Week 2
+38457415,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,11:20,12:20,01:00,,,00:00,Faith Taruvinga,Surrey - Private Clients ,Week 2
+38457709,29/11/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,11:30,12:00,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457430,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Hiafaa Zein Elaabdin Murad,Enter Name,11:55,12:25,00:30,,,00:00,Annah Nyaradzo Hangazha,Surrey - Private Clients ,Week 2
+38457358,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,12:00,16:00,04:00,,,00:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457724,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Sophie Thompson,GU11,12:00,14:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+38457736,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Jasmine Roberts,GU11,12:00,14:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+38457394,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,12:15,12:45,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457820,29/11/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Sandra Cattle,GU23,13:00,13:30,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 2
+38638822,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Office Work,Enter Name,13:00,17:00,04:00,,,00:00,Farai Albert Mariga,Hampshire - Private Clients ,All Weeks
+38457568,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,13:40,14:10,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+39074053,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Sophie Thompson,GU11,14:00,16:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+39076486,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Jasmine Roberts,GU11,14:00,16:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+38457511,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Jaqueline Hodgkiss,GU14,14:35,16:35,02:00,,,00:00,Mavis Mupiwani,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457667,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Daniel Beswick,GU14,14:50,16:50,02:00,,,00:00,Angel Letche,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457712,29/11/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,15:00,15:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457919,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Florance Tompkins,GU12,15:30,16:00,00:30,,,00:00,Blandina Matirongo,Hampshire County Council - Enhanced Rate 1 ,Week 2
+38457385,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Gloria Gould,GU3,16:00,20:00,04:00,,,00:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457397,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Carlos Andre Duarte Domingoes Da Silva,GU21,16:00,16:30,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+39074059,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Sophie Thompson,GU11,16:00,18:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+39096469,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Lily Coward,Enter Name,16:00,18:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),Week 2
+39116947,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Jasmine Roberts,GU11,16:00,18:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),All Weeks
+38457826,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Sandra Cattle,GU23,16:45,17:15,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 2
+38457418,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Sharon Jones,GU5,17:15,17:45,00:30,,,00:00,Nigel Tadiwa Chimanga,Surrey - Private Clients ,Week 2
+38457574,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,17:30,18:00,00:30,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+39074065,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Sophie Thompson,GU11,18:00,20:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+39076492,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Jasmine Roberts,GU11,18:00,20:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),Week 2
+39117016,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Lily Coward,Enter Name,18:00,20:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),All Weeks
+38457718,29/11/2023,active,Yes,Yes,No,No,Yes,No,Yes,No,No,Missed,Frederick Bell,GU21,19:00,19:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+38457364,29/11/2023,active,Yes,No,No,No,Yes,Yes,Yes,No,No,Missed,Gloria Gould,GU3,20:00,22:30,02:30,,,00:00,Gloria Zulu,Surrey County Council - Live In,Week 2
+38457577,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Elizabeth Anne Buchannon Armstrong,GU2,20:00,20:45,00:45,,,00:00,Elijah Kanyenze,Surrey - Private Clients ,Week 2
+39116977,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Sophie Thompson,GU11,20:00,22:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),All Weeks
+39116992,29/11/2023,active,Yes,No,No,No,No,No,Yes,No,No,Missed,Jasmine Roberts,GU11,20:00,22:00,02:00,,,00:00,Faridah Aganas Kusiima,Surrey County Council - Supported Living (16-18),All Weeks
+39117130,29/11/2023,active,Yes,No,No,No,Yes,No,Yes,No,No,Missed,Lily Coward,Enter Name,20:00,22:00,02:00,,,00:00,Taurai Joe Mudzviti,Surrey County Council - Supported Living (16-18),All Weeks
+38457829,29/11/2023,active,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Missed,Sandra Cattle,GU23,21:00,21:30,00:30,,,00:00,Elijah Kanyenze,Surrey County Council - Spot Contract,Week 2
