@@ -26,7 +26,6 @@ class GroupViewSet(viewsets.ModelViewSet):
     permission_classes = [permissions.IsAuthenticated]
 class RegisterView(generics.GenericAPIView):
 
-
     serializer_class = RegisterSerializer
 
     def post(self, request):
