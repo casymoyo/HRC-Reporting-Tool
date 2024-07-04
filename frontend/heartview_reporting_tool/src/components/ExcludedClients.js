@@ -16,6 +16,8 @@ export default function ExcludedClients() {
   const [lockModalIsOpen, setIsOpenLock] = useState(true);
   const [updateModalIsOpen, setUpdateModalIsOpen] = useState(false);
   const [excludedList, setExcludedList] = useState([]);
+  const [nameError, setNameError] = useState(null);
+  
   const apiURL = "http://127.0.0.2:8000/reporting/excluded_clients/";
 
   // Fetch excluded client data
@@ -24,6 +26,16 @@ export default function ExcludedClients() {
       .then((response) => response.json())
       .then((fetchedData) => setExcludedList(fetchedData));
   }, []);
+
+  const validateName = (name) => {
+    setNameError(null); 
+
+    if (!name.trim()) {
+      setNameError("Please enter a client name.");
+      return false;
+    }
+    return true;
+  };
 
   // Function to capitalize the first letter of the name and the surname
   function capitalizeName(name) {
@@ -37,6 +49,9 @@ export default function ExcludedClients() {
   // Add a client to the database
   const postData = async (e) => {
     e.preventDefault();
+    if (!validateName(name)) {
+      return; 
+    }
     try {
       const response = await fetch(apiURL, {
         method: "POST",
@@ -173,6 +188,9 @@ export default function ExcludedClients() {
         style={customStyles}
       >
         <form onSubmit={postData}>
+          <div className='d-flex justify-content-center'>
+            <button type='button' onClick={(e) => setIsOpen(!modalIsOpen)} className='btn btn-close'></button>
+          </div>
           <h5 className="py-3">Enter Full Name of the Client</h5>
           <input
             type="text"
@@ -180,6 +198,7 @@ export default function ExcludedClients() {
             placeholder="Client Name"
             onChange={(e) => setName(e.target.value)}
           />
+          {nameError && <p className="text-danger">{nameError}</p>}
           <div className="py-3">
             <button className="btn btn-sm btn-primary w-100">Submit</button>
           </div>
@@ -193,6 +212,9 @@ export default function ExcludedClients() {
         style={customStyles}
       >
         <form onSubmit={(e) => handleDataUpdate(e, clientData.id)}>
+          <div className='d-flex justify-content-center'>
+            <button type='button' onClick={(e) => setUpdateModalIsOpen(!updateModalIsOpen)} className='btn btn-close'></button>
+          </div>
           <h5 className="py-3">Edit Client Name</h5>
           <input
             type="text"
@@ -202,6 +224,7 @@ export default function ExcludedClients() {
             defaultValue={clientData.name}
           />
           <div className="py-3">
+          {nameError && <p className="text-danger">{nameError}</p>}
             <button className="btn btn-sm btn-primary w-100">Save Changes</button>
           </div>
         </form>
