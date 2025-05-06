@@ -2,6 +2,8 @@ import mimetypes
 import os, shutil
 import pandas as pd
 from django.conf import settings
+from drf_yasg.utils import swagger_auto_schema
+from drf_yasg import openapi
 from django.http import HttpResponse
 from rest_framework.views import APIView
 from rest_framework.response import Response
@@ -15,16 +17,27 @@ from django.views.decorators.csrf import ensure_csrf_cookie, csrf_protect
 from .serializers import ExcludedClientSerializer, ReportsSerializer, RawCsvFileSerializer
 
 
-
-
 class ExcludedClientViewSet(viewsets.ModelViewSet):
     """
-    an endpoint to view, update and delete an excluded client
+    An endpoint to view, update and delete an excluded client.
     """
+
     queryset = ExcludedClient.objects.all().order_by('name')
-    # authentication_classes = [SessionAuthentication]
     serializer_class = ExcludedClientSerializer
     # permission_classes = [permissions.IsAuthenticated]
+
+    @swagger_auto_schema(
+        manual_parameters=[
+            openapi.Parameter(
+                'clientparam1',
+                openapi.IN_QUERY,
+                description="To view clients",
+                type=openapi.TYPE_STRING
+            ),
+        ]
+    )
+    def list(self, request, *args, **kwargs):
+        return super().list(request, *args, **kwargs)
 
 
 class ReportViewSet(viewsets.ModelViewSet):
@@ -57,27 +70,26 @@ def process_csv(request):
         csv_file = RawCsvFile.objects.all().last()
         specific_file_name = csv_file.file.name.split('/')[1]
 
-        # read the csv file and filter the columns
         df = pd.read_csv(os.path.join(settings.MEDIA_ROOT, str(csv_file.file)))[
             ['staff', 'client', 'sched start', 'sched end', 'clocked start']
         ]
-        # remove duplicates
+
         df.drop_duplicates(inplace=True)
-        # create a folder to hold the file if it doesn't exist
+ 
         if not os.path.exists('csv_files'):
             os.makedirs('csv_files')
-        # save the file temporarily in the folder csv_files for further processing
+
         df.to_csv(os.path.join('csv_files', specific_file_name), index=False)
         """
            sort the cvs file contents by staff name, and filter out the clients with the 
            excluded client list
         """
         final_file_name = 'filtered_' + specific_file_name
-        # exclude the clients in the excluded list
+     
         filtered_df = df[~df['client'].isin(excluded_clients)]
-        # sort the file values by staff
+        
         sorted_df = filtered_df.sort_values(by='staff')
-        # create a folder to hold the processed csv file if it doesn't exist
+        
         if not os.path.exists('processed_csv_files'):
             os.makedirs('processed_csv_files')
         sorted_df.to_csv(os.path.join('processed_csv_files', final_file_name), index=False)
@@ -86,11 +98,11 @@ def process_csv(request):
         Download the the processed file 
         """
         fl = open(processed_file_path, 'r')
-        # set the file type by default it's a csv file
+      
         mime_type, _ = mimetypes.guess_type(final_file_name)
         response = HttpResponse(fl, content_type=mime_type)
         response['Content-Disposition'] = "attachment; filename=%s" % final_file_name
-        # the response downloads the file
+        
         return response
     except Exception as e:
         return Response('Error processing the file or The file doesnt exists')
